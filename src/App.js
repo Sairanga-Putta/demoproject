@@ -1,7 +1,12 @@
+import Attendance from "./Attendance";
+import Classes from "./Classes";
+
 function App() {
   return (
     <>
-    Hello World!
+    <h1>Kodnest App</h1>
+    <Classes />
+    <Attendance />
     </>
   );
 }
