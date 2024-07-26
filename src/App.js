@@ -8,7 +8,6 @@ function App() {
     <h1>Kodnest App</h1>
     <Classes />
     <Attendance />
-    <Placements />
     </>
   );
 }
