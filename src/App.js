@@ -1,4 +1,4 @@
-import Assessment from "./Assessment";
+import Attendance from "./Attendance";
 import Classes from "./Classes";
 
 
